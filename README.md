@@ -171,6 +171,8 @@ Providers that periodically renew free credits.
 | Provider | Free Models | Credit Model | Max Context | Modalities | Get API Key |
 |---|---|---|---|---|---|
 | OpenRouter | 34 | Free tier + $10 topup → 1K RPD | 1M | audio, code, decisions, embeddings, image, reasoning, rerank, speech, text, video | <a href="https://openrouter.ai/workspaces/default/keys" target="_blank" rel="noopener">→</a> |
+| Experiential Labs | 100+ | Free tier (credits) | 128K | audio, code, decisions, embeddings, image, reasoning, rerank, speech, text, video | <a href="https://platform.experientiallabs.ai" target="_blank" rel="noopener">→</a> |
+| GonkaRouter | 50+ | Free tier | 128K | audio, code, decisions, embeddings, image, reasoning, rerank, speech, text, video | <a href="https://github.com/alexkolumbo/gonka-router" target="_blank" rel="noopener">→</a> |
 <!-- END_RENEWABLE -->
 
 ## Quick Reference — Base URLs & API Keys
